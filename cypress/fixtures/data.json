@@ -1,0 +1,9 @@
+{
+    "userName":"Admin",
+    "password":"admin123",
+    "incorrectUserName":"admon",
+    "incorrectPassword":"Admin123",
+    "hint":"Bob Tester",
+    "waitTime":5000,
+    "numberUsername":12345678
+}
